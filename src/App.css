@@ -1,0 +1,8 @@
+body {
+  background-color: #7ed6df;
+}
+textarea,
+#preview {
+  background-color: white;
+  min-height: 400px;
+}
